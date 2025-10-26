@@ -40,4 +40,3 @@ Too high! Keep trying.
 
 Attempt 3: Your guess? 14
 Congratulations! You completed the NumberQuest in 3 tries!
-
